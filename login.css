@@ -1,0 +1,18 @@
+#q{
+    text-align: center;
+}
+#w{ text-align: center;
+    border: black;
+    border: 55px;
+
+    
+    padding-top:  10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: aqua;
+    margin-left: 33%;
+    margin-right: 33%;
+
+    color: rgb(0, 11, 20);
+}
